@@ -1,6 +1,6 @@
 ## Pricing
 
-General pricing guideline $1/1,000 views
+General pricing guideline $2/1,000 views
 
 | 渠道類型 | 費用 | 日流量 | 案例 |
 | --- | --- | --- | --- |
