@@ -1,9 +1,8 @@
 # Marketing
 
-## Growth
+![Introduction](https://github.com/dotku/marketing/assets/1519232/a2a3a452-145f-4628-8dde-b739f50575c1)
 
-* https://clearbit.com/
-* https://app.lemonsqueezy.com/dashboard
+## Demo
 
-## Design
-https://logo.clearbit.com/bitdigital.us
+
+
