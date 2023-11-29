@@ -2,6 +2,8 @@
 
 ## Coverage
 
+Totally with 22 stations, and 6,000 in users in average, 132,000 users.
+
 * 湾区1-2站
 * 圣地亚哥站
 * 沙城站
