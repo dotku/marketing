@@ -12,6 +12,12 @@
 
 ![image](https://github.com/dotku/marketing/assets/1519232/ce5d83ac-0755-4a66-90fd-b721fc46dcfc)
 
+## Tools
+
+| Name | Description |
+| --- | --- |
+| visme.com | AI supported marketing media generating tool | 
+
 ## Pricing
 
 General pricing guideline $2/1,000 views
