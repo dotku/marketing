@@ -17,6 +17,8 @@
 | Name | Description |
 | --- | --- |
 | visme.com | AI supported marketing media generating tool | 
+| Lica World | AI generated video content |
+| Fliki | AI generate general purpose video content |
 
 ## Pricing
 
