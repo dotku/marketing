@@ -12,6 +12,8 @@
 
 ![image](https://github.com/dotku/marketing/assets/1519232/ce5d83ac-0755-4a66-90fd-b721fc46dcfc)
 
+[JYTech](https://jytech.us) is our official media technology partner.
+
 ## Tools
 
 | Name | Description |
