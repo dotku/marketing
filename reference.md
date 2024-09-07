@@ -4,4 +4,5 @@
 * https://app.lemonsqueezy.com/dashboard
 
 ## Design
-https://logo.clearbit.com/bitdigital.us
+* https://logo.clearbit.com/bitdigital.us
+* balloonary
