@@ -12,4 +12,4 @@
 | --- | --- | --- |
 | kyptronix | $450/mo | Facebook, ticktok |
 | WebMobril | | USA | Canada, Germany, Australia, India |
-| RankTechSOl | $500/mo | |
+| RankTechSOl | $500/mo | Shopify |
